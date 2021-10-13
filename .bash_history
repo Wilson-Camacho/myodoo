@@ -58,3 +58,52 @@ ls -a
 whoiam
 more .gifconfig
 exit
+ls
+more .gitconfig
+..
+cd ..
+ls
+cd ernesto
+..
+ls
+cd ..
+git config --global credential.helper store
+more .gitconfig
+ls -ls
+cd /opt/odoo
+ls
+more .config
+more .gitconfig
+git config --global credential.helper store
+nano .gitignore
+git status
+git add .
+ls
+git commit -am "Subiendo la database encriptada"
+git log
+git push origin master 
+.
+git push origin master 
+ls
+cd dumps
+gpg -d backup_db1.zip.gpg > backup_db1.zip
+ls
+cd ..
+ls
+cd odoo14
+ls
+cd ,,
+cd ..
+ls
+exit
+ls
+cd ..
+cd /opt/odoo
+ls
+cd dumps
+git status
+git log
+exit
+ls
+git log
+exit
